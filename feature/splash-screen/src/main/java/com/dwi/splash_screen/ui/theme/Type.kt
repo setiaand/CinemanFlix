@@ -1,4 +1,4 @@
-package com.dwi.cinemaflix.ui.theme
+package com.dwi.splash_screen.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
